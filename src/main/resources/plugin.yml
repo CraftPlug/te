@@ -1,0 +1,9 @@
+name: Craftplug
+description: $description
+version: '${version}'
+
+main: org.Craftplug.craftplug.Craftplug
+api-version: '1.21.8'
+load: STARTUP
+
+authors: [ Zolot ]
